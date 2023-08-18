@@ -29,5 +29,6 @@ if __name__ == "__main__":
     print(man.full_name())
     print(man.get_age())
     print(man.birthday())
+    print(man.get_age())
     # print(man.__age)
  
